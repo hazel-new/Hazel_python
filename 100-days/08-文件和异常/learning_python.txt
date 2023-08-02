@@ -1,0 +1,5 @@
+In Python you can add numbers.
+In Python you can make functions.
+In Python you can read strings.
+In Python you can use class.
+###################################

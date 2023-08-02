@@ -1,0 +1,17 @@
+h1 {
+    color: whitesmoke;
+    font-family: "Comic Sans MS";
+    }
+p {
+    color: #FF8C00;
+    font-family: "Microsoft YaHei";
+    margin-left: 20px;
+    }
+body {
+    background-image:url('../image/deer.jpg');
+    }
+p.inset {
+    border-style: inset;
+    border-width: 10px;
+    border-color: #edf1f3;
+    }
