@@ -5,7 +5,7 @@ elif score >= 80:
     grade = 'B'
 elif score >= 70:
     grade = 'C'
-elif grade >= 60:
+elif score >= 60:
     grade = 'D'
 else:
     grade = 'E'
